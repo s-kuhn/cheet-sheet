@@ -8,6 +8,9 @@ sudo ufw allow 3389
 ```
 Abmelden nicht vergessen
 
-## Docker
+## Create React App with TypeScript
+```
+npx create-react-app folder-name --template typescript
+```
 
 
